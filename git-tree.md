@@ -1,0 +1,1 @@
+`alias git-tree='git log --online --decorate --all --graph'`
